@@ -10,8 +10,7 @@ Self-taught Python dev from Belarus. Building Telegram bots and exploring algo t
 Python · aiogram 3 · APScheduler · SQLite · Fly.io · Docker
 
 ### 📈 Currently learning
-- MT5 copy trading via MetaApi
-- Bot architecture for client projects
+- Copy-trading bot via MetaApi
 
 ### 📫 Contact
 Telegram: [@jupiterduguard](https://t.me/jupiterduguard)
