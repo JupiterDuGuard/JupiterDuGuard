@@ -14,4 +14,4 @@ Python · aiogram 3 · APScheduler · SQLite · Fly.io · Docker
 - Bot architecture for client projects
 
 ### 📫 Contact
-Telegram: [@DEPRESSED_ENOUGH](https://t.me/DEPRESSED_ENOUGH)
+Telegram: [@jupiterduguard](https://t.me/jupiterduguard)
